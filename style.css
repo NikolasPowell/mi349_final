@@ -51,5 +51,9 @@ h1.header {
 }
 
 .about {
-    margin: 60px 0px;
+    margin: 70px 0px;
+}
+
+.paragraph1 {
+    text-align: center;
 }
