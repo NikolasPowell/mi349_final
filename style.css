@@ -10,7 +10,7 @@ html {
 
 
 p.border {
-    border-top: solid 15px;
+    border-top: solid 10px;
 }
 
 h1.header {
@@ -19,7 +19,6 @@ h1.header {
 }
 
 .sticky {
-    border-top: solid 15px;
     position: sticky;
     position: -webkit-sticky;
     top: 0;
