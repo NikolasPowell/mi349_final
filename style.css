@@ -23,3 +23,20 @@ h1.header {
     position: -webkit-sticky;
     top: 0;
 }
+
+.sticky button {
+    background-color: inherit;
+    float: left;
+    outline: auto;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+.sticky button:hover {
+    background-color: lightgray;
+}
+
+.sticky button.active {
+    background-color: darkgray;
+}
