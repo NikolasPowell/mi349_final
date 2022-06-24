@@ -48,7 +48,7 @@ h1.header {
     position: static;
     width: 200px;
     height: 200px;
-    
+    float: left;
 }
 
 .about {
@@ -58,4 +58,5 @@ h1.header {
 
 .paragraph1 {
     text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
 }
