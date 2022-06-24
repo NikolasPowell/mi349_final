@@ -10,10 +10,17 @@ html {
 
 
 p.border {
-    border-style: solid 15px;
+    border-top: solid 15px;
 }
 
 h1.header {
     border-style: solid;
     text-align: center;
+}
+
+.sticky {
+    border-top: solid 15px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
 }
