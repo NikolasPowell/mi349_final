@@ -10,7 +10,7 @@ html {
 
 
 p.border {
-    border-top: solid 10px;
+    border-top: solid 5px;
     margin: 0px;
 }
 
@@ -28,7 +28,9 @@ h1.header {
 .sticky button {
     background-color: inherit;
     float: left;
-    outline: auto;
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+    border-left: solid 5px;
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
