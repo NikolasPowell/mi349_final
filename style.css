@@ -46,7 +46,6 @@ h1.header {
 
 .logo {
     position: static;
-    float: left;
     width: 200px;
     height: 200px;
 }
