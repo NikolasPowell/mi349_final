@@ -8,6 +8,11 @@ html {
     background-color: lightgrey;
 }
 
+
+p.border {
+    border-style: solid 15px;
+}
+
 h1.header {
     border-style: solid;
     text-align: center;
