@@ -43,3 +43,9 @@ h1.header {
 .sticky button.active {
     background-color: darkgray;
 }
+
+.logo {
+    position: static;
+    width: 300px;
+    height: 300px;
+}
