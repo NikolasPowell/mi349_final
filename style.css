@@ -49,9 +49,11 @@ h1.header {
     width: 200px;
     height: 200px;
     float: left;
-    margin: 50px;
 }
 
+.about {
+    margin: 70px 0px;
+}
 
 
 .paragraph1 {
