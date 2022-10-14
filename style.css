@@ -20,7 +20,6 @@ html {
     text-align: center;
     font-size: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    float: right;
 }
 
 .sticky {
@@ -242,6 +241,7 @@ html {
 }
 
 #nav-hamburger {
+    float: left;
     width: 50px;
     height: 50px;
     display: block;
