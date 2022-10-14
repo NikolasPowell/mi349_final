@@ -124,7 +124,6 @@ html {
     width: 200px;
     height: 200px;
     margin-left: 350px;
-    float: none;
 }
 
 .paragraph6review {
@@ -134,8 +133,7 @@ html {
     border: 2px solid;
     width: 200px;
     height: 200px;
-    margin-left: 350px;
-    float: right;
+    margin-left: 450px;
 }
 
 .footer{
