@@ -112,6 +112,7 @@ html {
 }
 
 .review {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     float: left;
     width: 30%;
     padding: 10px;
