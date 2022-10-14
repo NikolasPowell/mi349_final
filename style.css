@@ -106,11 +106,11 @@ html {
 
 .paragraph4review {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 10px;
+    font-size: 25px;
     padding: 10px;
     border: 2px solid;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 .footer{
