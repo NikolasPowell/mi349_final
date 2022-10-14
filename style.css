@@ -124,6 +124,7 @@ html {
     width: 200px;
     height: 200px;
     margin-left: 500px;
+    float: left;
 }
 
 .paragraph6review {
@@ -134,12 +135,14 @@ html {
     width: 200px;
     height: 200px;
     margin-left: 650px;
+    float: right;
 }
 
 .footer{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 10px;
+    position: fixed;
 }
 
 .interested {
