@@ -219,6 +219,7 @@ html {
     border: none;
     padding: 0px;
     margin: 10px;
+    margin-bottom: 0px;
     background: linear-gradient(
         to bottom,
         black, black 20%,
