@@ -308,3 +308,7 @@ html {
     visibility: visible;
     opacity: 0.4;
 }
+
+.title {
+    margin-left: 55px;
+}
