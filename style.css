@@ -327,6 +327,12 @@ html {
 
 .furniture {
     position: static;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+}
+
+.furniture2 {
+    position: static;
+    width: 200px;
+    height: 200px;
 }
