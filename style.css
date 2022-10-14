@@ -115,6 +115,16 @@ html {
     margin-left: 100px;
 }
 
+.paragraph5review {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid;
+    width: 200px;
+    height: 200px;
+    margin-left: 150px;
+}
+
 .footer{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
