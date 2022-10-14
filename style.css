@@ -95,6 +95,7 @@ html {
 }
 
 .paragraph2 {
+    text-indent: 10%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
 }
@@ -111,7 +112,7 @@ html {
     border: 2px solid;
     width: 200px;
     height: 200px;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 .footer{
