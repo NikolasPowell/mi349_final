@@ -105,12 +105,16 @@ html {
     font-size: 20px;
 }
 
-#grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 3rem;
-    width: 80%;
-    margin: 0 auto;
+.grid:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.review {
+    float: left;
+    width: 33%;
+    padding: 10px;
 }
 
 .paragraph4review {
