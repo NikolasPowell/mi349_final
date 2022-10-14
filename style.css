@@ -324,3 +324,9 @@ html {
     margin-top: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.refurbished {
+    position: static;
+    width: 100px;
+    height: 100px;
+}
