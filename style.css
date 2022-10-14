@@ -308,3 +308,7 @@ html {
     visibility: visible;
     opacity: 0.4;
 }
+
+.boundary {
+    margin: 0px;
+}
