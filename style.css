@@ -210,3 +210,32 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
 }
+
+#nav-hamburger {
+    width: 50px;
+    height: 50px;
+    display: block;
+    border: none;
+    padding: 0px;
+    margin: 20px;
+    background: linear-gradient(
+        to bottom,
+        black, black 20%,
+        white 20%, white 40%,
+        black 40%, black 60%,
+        white 60%, white 80%,
+        black 80%, black 100%
+    );
+}
+
+#nav-hamburger #nav-menu {
+    visibility: hidden;
+    position: fixed;
+    top: 0;
+    left: -250px;
+    width: 200px;
+    height: 100%;
+    background-color: black;
+    padding: 0px 10px;
+    box-sizing: border-box;
+}
