@@ -124,6 +124,7 @@ html {
     width: 200px;
     height: 200px;
     margin-left: 350px;
+    float: left;
 }
 
 .paragraph6review {
