@@ -15,7 +15,7 @@ html {
 }
 
 .header {
-    border-style: solid;
+    border-bottom: solid 2px;
     text-align: center;
     font-size: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
