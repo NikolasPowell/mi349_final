@@ -107,9 +107,8 @@ html {
 .paragraph4review {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
-    padding-left: 40px;
-    margin-left: 500px;
-    border: 10px dotted;
+    padding: 10px;
+    border: 2px solid;
 }
 
 .footer{
