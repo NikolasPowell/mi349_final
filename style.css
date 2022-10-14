@@ -105,6 +105,14 @@ html {
     font-size: 20px;
 }
 
+#grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 3rem;
+    width: 80%;
+    margin: 0 auto;
+}
+
 .paragraph4review {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
@@ -124,7 +132,6 @@ html {
     width: 200px;
     height: 200px;
     margin-left: 500px;
-    float: left;
 }
 
 .paragraph6review {
@@ -135,7 +142,6 @@ html {
     width: 200px;
     height: 200px;
     margin-left: 650px;
-    float: right;
 }
 
 .footer{
