@@ -124,7 +124,6 @@ html {
     width: 200px;
     height: 200px;
     margin-left: 500px;
-    float: left;
 }
 
 .paragraph6review {
@@ -135,15 +134,6 @@ html {
     width: 200px;
     height: 200px;
     margin-left: 650px;
-    float: right;
-}
-
-.container {
-    width: 600px;
-    height: 600px;
-    padding-top: 20px;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 .footer{
