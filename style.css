@@ -219,7 +219,7 @@ html {
     border: none;
     padding: 0px;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-top: 0px;
     background: linear-gradient(
         to bottom,
         black, black 20%,
