@@ -273,11 +273,36 @@ html {
     display: none;
 }
 
-#hamburger-menu h3 {
+#nav-hamburger h3 {
     color: #B9FAF8;
     font-size: 2.2rem;
 }
 
-#hamburger-menu ul {
+#nav-hamburger ul {
     padding-left: 0px;
+}
+
+#nav-hamburger li {
+    list-style-type: none;
+    line-height: 3rem;
+}
+
+#nav-hamburger a {
+    color: #B9FAF8;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+
+#nav-hamburger a:hover {
+    text-decoration: underline;
+}
+
+#hamburger-in:checked + #nav-hamburger #nav-menu {
+    visibility: visible;
+    left: 0;
+}
+
+#hamburger-in:checked ~ .overlay {
+    visibility: visible;
+    opacity: 0.4;
 }
