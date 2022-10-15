@@ -194,6 +194,12 @@ html {
     margin-left: 360px;
 }
 
+.lists {
+    margin-left: 400px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
 .feed {
     margin-left: 350px;
 }
