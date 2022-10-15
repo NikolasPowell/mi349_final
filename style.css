@@ -98,7 +98,6 @@ html {
     text-indent: 10%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
-    background-color: lightgray;
 }
 
 .paragraph3 {
@@ -281,9 +280,9 @@ html {
     background: linear-gradient(
         to bottom,
         black, black 20%,
-        white 20%, white 40%,
+        lightsalmon 20%, lightsalmon 40%,
         black 40%, black 60%,
-        white 60%, white 80%,
+        lightsalmon 60%, lightsalmon 80%,
         black 80%, black 100%
     );
 }
