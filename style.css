@@ -386,6 +386,11 @@ html {
     height: 200px;
 }
 
+.furniture:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
 .furniture2 {
     position: static;
     width: 200px;
