@@ -193,17 +193,17 @@ html {
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: 360px;
-    text-align: center;
 }
 
 .lists {
     margin-left: 550px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
 }
 
 .feed {
-    margin-left: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sign-up {
