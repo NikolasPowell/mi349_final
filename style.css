@@ -182,10 +182,9 @@ html {
 }
 
 .header21 {
-    margin-top: 50px;
-    margin-left: 500px;
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
 .header22 {
