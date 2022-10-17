@@ -52,7 +52,7 @@ html {
     position: static;
     width: 50%;
     height: 200px;
-    margin-left: 500px;
+    margin: auto;
 }
 
 .facebook {
