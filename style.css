@@ -171,8 +171,8 @@ html {
 }
 
 .social {
-    position: relative;
-    width: 10%;
+    float: left;
+    width: 33%;
     padding: 10px;
 }
 
