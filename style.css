@@ -381,30 +381,30 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-#furniture {
+.furniture {
     position: static;
     width: 200px;
     height: 200px;
 }
 
-#furniture:hover {
+.furniture:hover {
     -webkit-transform:scale(1.5);
     transform:scale(1.5);
 }
 
-#furniture2 {
+.furniture2 {
     position: static;
     width: 200px;
     height: 200px;
 }
 
-#furniture3 {
+.furniture3 {
     position: static;
     width: 200px;
     height: 200px;
 }
 
-#furniture4 {
+.furniture4 {
     position: static;
     width: 200px;
     height: 200px;
