@@ -174,13 +174,13 @@ html {
     float: left;
     width: 33%;
     padding: 5px;
-    box-sizing: border-box;
 }
 
 .group::after {
     content: "";
     clear: both;
     display: table;
+    box-sizing: border-box;
 }
 
 .header21 {
