@@ -21,7 +21,7 @@ document.addEventListener('click', function (e) {
     if (e.target.className.indexOf('furniture') !== -1){
         var img = e.target;
         var imageContent = document.getElementsByClassName("image-content");
-        var imageCaption = document.getElementsById("image-caption");
+        var imageCaption = document.getElementsByClassName("image-caption");
         image.style.display = "block";
         imageContent.src = img.src;
     }
