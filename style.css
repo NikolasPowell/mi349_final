@@ -381,7 +381,7 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.furniture:hover {
+.furniture {
     position: static;
     width: 200px;
     height: 200px;
