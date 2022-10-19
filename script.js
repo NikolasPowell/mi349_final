@@ -10,9 +10,9 @@ function enlargeImg2() {
     newerImg = newerImg.heigt * 2;
 }*/
 
-var image = document.getElementById('image');
+var image = document.getElementsByClassName('image');
 
-var imageClose = document.getElementById('image-close');
+var imageClose = document.getElementsByClassName('image-close');
 imageClose.addEventListener('click', function() {
     image.style.display = "none";
 });
@@ -20,7 +20,7 @@ imageClose.addEventListener('click', function() {
 document.addEventListener('click', function (e) {
     if (e.target.className.indexOf('furniture') !== -1){
         var img = e.target;
-        var imageContent = document.getElementsById("image-content");
+        var imageContent = document.getElementsByClassName("image-content");
         var imageCaption = document.getElementsByClassName("image-caption");
         image.style.display = "block";
         imageContent.src = img.src;
