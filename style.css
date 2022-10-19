@@ -102,18 +102,31 @@ html {
 }
 
 .review {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     float: left;
     width: 30%;
     padding: 10px;
     margin: 5px;
-    border: 2px solid;
 }
 
 .grid:after {
     content: "";
     display: table;
     clear: both;
+}
+
+.review2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid;
+}
+
+.review3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid;
+}
+
+.review4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid;
 }
 
 .paragraph4review {
