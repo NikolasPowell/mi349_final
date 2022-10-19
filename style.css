@@ -176,13 +176,6 @@ html {
     height: 200px;
 }
 
-.group::after {
-    content: "";
-    clear: both;
-    display: table;
-    box-sizing: border-box;
-}
-
 .header21 {
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
