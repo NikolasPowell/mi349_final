@@ -389,7 +389,7 @@ html {
     transition: 0.3s;
 }
 
-/*.furniture:hover {opacity: 0.7;}
+.furniture:hover {opacity: 0.7;}
 
 .image {
     display: none;
@@ -457,7 +457,7 @@ html {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
-}*/
+}
 
 /*.furniture:hover {
     -webkit-transform:scale(1.5);
