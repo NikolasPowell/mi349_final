@@ -398,10 +398,20 @@ html {
     height: 200px;
 }
 
+.furniture2:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
 .furniture3 {
     position: static;
     width: 200px;
     height: 200px;
+}
+
+.furniture3:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
 }
 
 .furniture4 {
@@ -410,10 +420,20 @@ html {
     height: 200px;
 }
 
+.furniture4:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
 .furniture5 {
     position: static;
     width: 200px;
     height: 200px;
+}
+
+.furniture5:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
 }
 
 .furniture6 {
@@ -422,10 +442,20 @@ html {
     height: 200px;
 }
 
+.furniture6:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
 .furniture7 {
     position: static;
     width: 200px;
     height: 200px;
+}
+
+.furniture7:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
 }
 
 .furniture8 {
@@ -434,10 +464,20 @@ html {
     height: 200px;
 }
 
+.furniture8:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
 .furniture9 {
     position: static;
     width: 200px;
     height: 200px;
+}
+
+.furniture9:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
 }
 
 .furniture10 {
@@ -446,14 +486,29 @@ html {
     height: 200px;
 }
 
+.furniture10:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
 .furniture11 {
     position: static;
     width: 200px;
     height: 200px;
 }
 
+.furniture11:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
+}
+
 .furniture12 {
     position: static;
     width: 200px;
     height: 200px;
+}
+
+.furniture12:hover {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5);
 }
