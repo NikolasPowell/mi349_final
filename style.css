@@ -172,6 +172,7 @@ html {
 
 .group {
     display: flex;
+    text-align: center;
 }
 
 .header21 {
