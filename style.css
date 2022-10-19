@@ -103,15 +103,17 @@ html {
 
 .review {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    flex: 30%;
-    width: 30%;
+    float: left;
+    width: 33%;
     padding: 10px;
     margin: 5px;
     border: 2px solid;
 }
 
 .grid:after {
-    display: flex;
+    content: "";
+    display: table;
+    clear: both;
 }
 
 .paragraph4review {
