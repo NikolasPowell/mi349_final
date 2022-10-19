@@ -13,9 +13,9 @@ function enlargeImg2() {
 var image = document.getElementById('image');
 
 var imageClose = document.getElementById('image-close');
-imageClose.addEventListener('click', function()) {
+imageClose.addEventListener('click', function() {
     image.style.display = "none";
-}
+});
 
 document.addEventListener('click', function (e) {
     if (e.target.className.indexOf('furniture') !== -1){
