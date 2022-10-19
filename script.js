@@ -1,5 +1,5 @@
 function enlargeImg() {
-    var newerImg = document.querySelector(".refurbished")
+    var newerImg = document.getElementById("furniture")
     newerImg = newerImg.width * 2;
     newerImg = newerImg.heigt * 2;
 }
