@@ -381,13 +381,10 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.furniture {
+.furniture:hover {
     position: static;
     width: 200px;
     height: 200px;
-}
-
-.furniture:hover {
     -webkit-transform:scale(1.5);
     transform:scale(1.5);
 }
