@@ -18,7 +18,7 @@ imageClose.addEventListener('click', function()) {
 }
 
 document.addEventListener('click', function (e) {
-    if (e.target.className.indexOf('image-target') !== -1){
+    if (e.target.className.indexOf('furniture') !== -1){
         var img = e.target;
         var imageContent = document.getElementById("image-content");
         image.style.display = "block";
