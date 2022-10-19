@@ -10,9 +10,9 @@ function enlargeImg2() {
     newerImg = newerImg.heigt * 2;
 }*/
 
-var image = document.getElementsByClassName('image');
+var image = document.getElementsById('image');
 
-var imageClose = document.getElementsByClassName('image-close');
+var imageClose = document.getElementsById('image-close');
 imageClose.addEventListener('click', function() {
     image.style.display = "none";
 });
