@@ -172,8 +172,8 @@ html {
 
 .social {
     float: left;
-    width: 20%;
-    padding: 10px;
+    width: 33%;
+    padding: 5px;
 }
 
 .group::after {
