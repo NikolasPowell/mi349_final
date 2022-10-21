@@ -305,9 +305,9 @@ div.container1 {
     background: linear-gradient(
         to bottom,
         black, black 20%,
-        lightsalmon 20%, lightsalmon 40%,
+        tan 20%, tan 40%,
         black 40%, black 60%,
-        lightsalmon 60%, lightsalmon 80%,
+        tan 60%, tan 80%,
         black 80%, black 100%
     );
 }
