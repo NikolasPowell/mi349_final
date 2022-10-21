@@ -207,8 +207,13 @@ html {
     text-align: center;
 }
 
-.lists {
+div.container1 {
     text-align: center;
+}
+
+.lists {
+    display: inline-block;
+    text-align: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
