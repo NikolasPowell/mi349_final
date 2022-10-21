@@ -204,16 +204,19 @@ html {
     margin-top: 50px;
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-left: 360px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .lists {
-    margin-left: 550px;
+    margin-left: auto;
+    margin-right: auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .feed {
-    
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sign-up {
