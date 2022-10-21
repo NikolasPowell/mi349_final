@@ -213,8 +213,7 @@ html {
 }
 
 .feed {
-    margin-left: 350px;
-    text-align: center;
+    margin: auto;
 }
 
 .sign-up {
