@@ -9,7 +9,7 @@ html {
 }
 
 html, body {
-    height: 200%;
+    height: auto;
 }
 
 .border {
