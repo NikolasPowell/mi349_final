@@ -2,6 +2,7 @@ body {
     background-color: lightsalmon;
     margin: 30px;
     padding: 30px;
+    flex-grow: 1;
 }
 
 html {
