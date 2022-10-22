@@ -8,6 +8,10 @@ html {
     background-color: lightblue;
 }
 
+html, body {
+    margin: 0;
+    height: 100%;
+}
 
 .border {
     border-top: solid 5px;
